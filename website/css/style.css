@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #000000;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    line-height: 1.25;
+    font-family: 'Open Sans', 'sans-serif'
+}
+
+.link {
+    color: #ffdd00;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #d83c56
+}
+
+p{
+    color: #d80000
+}

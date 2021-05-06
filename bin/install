@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+set -Eeuo pipefail
+set -x
+
+sudo apt-get install g++ make rsync wget git ssh gdb valgrind tree ; git --version
+ssh -V
+tree --version
+wget --version
+
+
+
+
